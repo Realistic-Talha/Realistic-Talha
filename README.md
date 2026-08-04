@@ -60,7 +60,7 @@ I'm a Computer Science student at **Air University, Islamabad** 🇵🇰, specia
 <div align="center">
 
 **Mobile & Programming Languages**<br/>
-<img src="https://skillicons.dev/icons?i=flutter,dart,react,nextjs,ts,js,python&theme=dark" alt="Mobile and Languages"/><br/><br/>
+<img src="https://skillicons.dev/icons?i=flutter,dart,react,nextjs,typescript,javascript,python&theme=dark" alt="Mobile and Languages"/><br/><br/>
 
 **Web & Styling**<br/>
 <img src="https://skillicons.dev/icons?i=html,css,tailwind,nodejs&theme=dark" alt="Web and Styling"/><br/><br/>
@@ -144,20 +144,20 @@ I'm a Computer Science student at **Air University, Islamabad** 🇵🇰, specia
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Realistic-Talha&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1A1B27&title_color=8A63D2&icon_color=8A63D2&text_color=c9d1d9&count_private=true" alt="GitHub Stats"/>
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Realistic-Talha&theme=tokyonight&hide_border=true&background=1A1B27&stroke=8A63D2&ring=8A63D2&fire=ff6b6b&currStreakLabel=8A63D2" alt="GitHub Streak"/>
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Realistic-Talha&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1A1B27&title_color=8A63D2&icon_color=8A63D2&text_color=c9d1d9&cache_seconds=3600" alt="GitHub Stats"/>
+  <img width="49%" src="https://streak-stats.demolab.com/?user=Realistic-Talha&theme=tokyonight&hide_border=true&background=1A1B27&stroke=8A63D2&ring=8A63D2&fire=ff6b6b&currStreakLabel=8A63D2&cache_seconds=3600" alt="GitHub Streak"/>
 </div>
 
 <br/>
 
 <div align="center">
-  <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Realistic-Talha&layout=compact&theme=tokyonight&hide_border=true&bg_color=1A1B27&title_color=8A63D2&text_color=c9d1d9&langs_count=8" alt="Top Languages"/>
+  <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Realistic-Talha&layout=compact&theme=tokyonight&hide_border=true&bg_color=1A1B27&title_color=8A63D2&text_color=c9d1d9&langs_count=8&cache_seconds=3600" alt="Top Languages"/>
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Realistic-Talha&bg_color=1A1B27&color=8A63D2&line=8A63D2&point=ffffff&area=true&hide_border=true" width="97%" alt="Activity Graph"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Realistic-Talha&bg_color=1A1B27&color=8A63D2&line=8A63D2&point=ffffff&area=true&hide_border=true&cache_seconds=3600" width="97%" alt="Activity Graph"/>
 </div>
 
 <br/>
