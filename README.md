@@ -144,14 +144,14 @@ I'm a Computer Science student at **Air University, Islamabad** 🇵🇰, specia
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Realistic-Talha&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1A1B27&title_color=8A63D2&icon_color=8A63D2&text_color=c9d1d9" alt="GitHub Stats"/>
+  <img width="49%" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Realistic-Talha&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1A1B27&title_color=8A63D2&icon_color=8A63D2&text_color=c9d1d9" alt="GitHub Stats"/>
   <img width="49%" src="https://streak-stats.demolab.com/?user=Realistic-Talha&theme=tokyonight&hide_border=true&background=1A1B27&stroke=8A63D2&ring=8A63D2&fire=ff6b6b&currStreakLabel=8A63D2" alt="GitHub Streak"/>
 </div>
 
 <br/>
 
 <div align="center">
-  <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Realistic-Talha&layout=compact&theme=tokyonight&hide_border=true&bg_color=1A1B27&title_color=8A63D2&text_color=c9d1d9&langs_count=8" alt="Top Languages"/>
+  <img width="45%" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Realistic-Talha&layout=compact&theme=tokyonight&hide_border=true&bg_color=1A1B27&title_color=8A63D2&text_color=c9d1d9&langs_count=8" alt="Top Languages"/>
 </div>
 
 <br/>
