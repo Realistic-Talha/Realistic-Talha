@@ -129,7 +129,7 @@ A social connection platform built for meaningful, people-first networking.
 
 <div align="center">
 <img width="49%" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Realistic-Talha&show_icons=true&hide_border=true&bg_color=0D1117&title_color=8B5CF6&icon_color=8B5CF6&text_color=c9d1d9&count_private=true"/>
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Realistic-Talha&hide_border=true&background=0D1117&stroke=0D1117&ring=8B5CF6&fire=0EA5E9&currStreakLabel=8B5CF6"/>
+<img width="49%" src="https://github-readme-streak-stats-eight.vercel.app?user=Realistic-Talha&hide_border=true&background=0D1117&stroke=0D1117&ring=8B5CF6&fire=0EA5E9&currStreakLabel=8B5CF6"/>
 </div>
 
 <div align="center">
@@ -145,7 +145,7 @@ A social connection platform built for meaningful, people-first networking.
 ## 🏆 Trophies
 
 <div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Realistic-Talha&theme=algolia&no-frame=true&no-bg=true&column=7&margin-w=10"/>
+<img src="https://github-trophies.vercel.app/?username=Realistic-Talha&theme=algolia&no-frame=true&no-bg=true&column=7&margin-w=10"/>
 </div>
 
 <br/>
