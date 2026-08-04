@@ -1,51 +1,45 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=blur&color=0:0a0e14,100:0a0e14&height=10&section=header"/>
-
-```
- ███╗   ███╗    ████████╗    ██████╗ 
- ████╗ ████║    ╚══██╔══╝    ██╔══██╗
- ██╔████╔██║       ██║       ██████╔╝
- ██║╚██╔╝██║       ██║       ██╔══██╗
- ██║ ╚═╝ ██║       ██║       ██║  ██║
- ╚═╝     ╚═╝       ╚═╝       ╚═╝  ╚═╝
-```
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2200&pause=900&color=39FF9D&center=true&vCenter=true&width=680&lines=%24+whoami;Muhammad+Talha+Rana+—+Flutter+%26+Web+Developer;%24+cat+status.txt;Building+cross-platform+apps+%7C+Shipping+fast;%24+echo+%24LOCATION;Islamabad%2C+Pakistan+%F0%9F%87%B5%F0%9F%87%B0" alt="terminal typing"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=Muhammad%20Talha%20Rana&fontSize=46&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Flutter%20Developer%20•%20Web%20Developer%20•%20AI%20Enthusiast&descAlignY=55&descSize=18" width="100%"/>
 
 <br/>
 
-<a href="https://github.com/Realistic-Talha"><img src="https://img.shields.io/badge/-Realistic--Talha-0a0e14?style=flat-square&logo=github&logoColor=39FF9D&labelColor=0a0e14"/></a>
-<a href="https://twitter.com/realistictalha"><img src="https://img.shields.io/badge/-realistictalha-0a0e14?style=flat-square&logo=x&logoColor=39FF9D&labelColor=0a0e14"/></a>
-<img src="https://komarev.com/ghpvc/?username=Realistic-Talha&label=visitors&color=0a0e14&style=flat-square"/>
+<a href="https://github.com/Realistic-Talha">
+  <img src="https://img.shields.io/badge/GitHub-Realistic--Talha-0f0c29?style=for-the-badge&logo=github&logoColor=white&labelColor=24243e" alt="GitHub"/>
+</a>
+<a href="https://twitter.com/realistictalha">
+  <img src="https://img.shields.io/badge/Twitter-@realistictalha-0f0c29?style=for-the-badge&logo=twitter&logoColor=white&labelColor=24243e" alt="Twitter"/>
+</a>
+<a href="mailto:">
+  <img src="https://img.shields.io/badge/Email-Contact_Me-0f0c29?style=for-the-badge&logo=gmail&logoColor=white&labelColor=24243e" alt="Email"/>
+</a>
 
-<img src="https://capsule-render.vercel.app/api?type=blur&color=0:0a0e14,100:0a0e14&height=10&section=header"/>
+<br/><br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=800&color=8A63D2&center=true&vCenter=true&width=600&lines=Building+cross-platform+mobile+apps+with+Flutter;Crafting+modern+web+experiences+with+React+%26+Next.js;Exploring+AI%2FML+integration+in+real+products;Always+shipping%2C+always+learning" alt="Typing SVG"/>
+
+<img src="https://komarev.com/ghpvc/?username=Realistic-Talha&label=Profile%20Views&color=8A63D2&style=flat-square" alt="Profile Views"/>
 
 </div>
 
 <br/>
 
-```bash
-talha@dev:~$ cat about.md
-```
+## 🧭 About Me
 
 <table>
 <tr>
-<td width="65%" valign="top">
+<td width="60%" valign="top">
 
-> BS Computer Science @ Air University · building things that ship, not just things that compile.
+I'm a Computer Science student at **Air University, Islamabad** 🇵🇰, focused on building polished, production-ready apps across mobile and web. I care about clean architecture, thoughtful UI/UX, and shipping things people actually enjoy using.
 
-```yaml
-role:        Flutter Developer / Web Developer / AI Enthusiast
-based_in:    Islamabad, Pakistan
-currently:   Shipping full-stack + mobile products
-exploring:   AI/ML integration in production apps
-philosophy:  clean architecture > clever hacks
-uptime:      "always building"
-```
+- 🎓 BS Computer Science @ Air University
+- 🔭 Currently building full-stack & mobile products
+- 🌱 Deepening my skills in AI/ML integration
+- 💬 Ask me about Flutter, React, or Next.js
+- ⚡ Fun fact: I'd rather refactor than sleep
 
 </td>
-<td width="35%" valign="top">
+<td width="40%" valign="top">
 <img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="100%"/>
 </td>
 </tr>
@@ -53,121 +47,145 @@ uptime:      "always building"
 
 <br/>
 
-```bash
-talha@dev:~$ ls stack/ --tree
-```
+## 🛠️ Tech Stack
 
 <div align="center">
 
-| `mobile/` | `web/` | `backend/` | `tools/` |
-|:---:|:---:|:---:|:---:|
-| ![Flutter](https://img.shields.io/badge/Flutter-0a0e14?style=flat-square&logo=flutter&logoColor=39FF9D) | ![React](https://img.shields.io/badge/React-0a0e14?style=flat-square&logo=react&logoColor=39FF9D) | ![Node](https://img.shields.io/badge/Node.js-0a0e14?style=flat-square&logo=node.js&logoColor=39FF9D) | ![Git](https://img.shields.io/badge/Git-0a0e14?style=flat-square&logo=git&logoColor=39FF9D) |
-| ![Dart](https://img.shields.io/badge/Dart-0a0e14?style=flat-square&logo=dart&logoColor=39FF9D) | ![Next.js](https://img.shields.io/badge/Next.js-0a0e14?style=flat-square&logo=next.js&logoColor=39FF9D) | ![Firebase](https://img.shields.io/badge/Firebase-0a0e14?style=flat-square&logo=firebase&logoColor=39FF9D) | ![VSCode](https://img.shields.io/badge/VS_Code-0a0e14?style=flat-square&logo=visualstudiocode&logoColor=39FF9D) |
-| ![TS](https://img.shields.io/badge/TypeScript-0a0e14?style=flat-square&logo=typescript&logoColor=39FF9D) | ![Tailwind](https://img.shields.io/badge/Tailwind-0a0e14?style=flat-square&logo=tailwindcss&logoColor=39FF9D) | ![MongoDB](https://img.shields.io/badge/MongoDB-0a0e14?style=flat-square&logo=mongodb&logoColor=39FF9D) | ![Figma](https://img.shields.io/badge/Figma-0a0e14?style=flat-square&logo=figma&logoColor=39FF9D) |
-| ![Python](https://img.shields.io/badge/Python-0a0e14?style=flat-square&logo=python&logoColor=39FF9D) | ![JS](https://img.shields.io/badge/JavaScript-0a0e14?style=flat-square&logo=javascript&logoColor=39FF9D) | | ![Postman](https://img.shields.io/badge/Postman-0a0e14?style=flat-square&logo=postman&logoColor=39FF9D) |
+**Mobile & Languages**
+
+<img src="https://skillicons.dev/icons?i=flutter,dart,react,nextjs,typescript,javascript,python&perline=7"/>
+
+**Web & Styling**
+
+<img src="https://skillicons.dev/icons?i=html,css,tailwind,nodejs&perline=7"/>
+
+**Tools & Platforms**
+
+<img src="https://skillicons.dev/icons?i=firebase,mongodb,git,github,vscode,figma,postman&perline=7"/>
 
 </div>
 
 <br/>
 
-```bash
-talha@dev:~$ ls projects/ -la
-```
+## 🚀 Featured Projects
 
 <table>
-<tr><td valign="top" width="4%">📚</td>
-<td valign="top">
-
-**`BookNest/`** — Premium library management web app. Gold & Obsidian theme, book reservations, cart system, fully responsive.
-`React` `Vite` `CSS3` &nbsp;·&nbsp; [source](https://github.com/Realistic-Talha/BookNest) · [live](https://realistic-talha.github.io/BookNest/)
-
-</td></tr>
-<tr><td valign="top">🎬</td>
-<td valign="top">
-
-**`ai-story-weaver/`** — AI-powered video story generator with voice cloning, professional export, and multi-service fallbacks.
-`TypeScript` `Node.js` `AI` &nbsp;·&nbsp; [source](https://github.com/Realistic-Talha/ai-story-weaver)
-
-</td></tr>
-<tr><td valign="top">🎓</td>
-<td valign="top">
-
-**`unibuzz_community/`** — Flutter social platform connecting university students around shared resources and campus life.
-`Flutter` `Dart` `Firebase` &nbsp;·&nbsp; [source](https://github.com/Realistic-Talha/unibuzz_community)
-
-</td></tr>
-<tr><td valign="top">🔐</td>
-<td valign="top">
-
-**`cyberkit-pro/`** — Security tools suite for penetration testing and analysis workflows.
-`JavaScript` `Security` &nbsp;·&nbsp; [source](https://github.com/Realistic-Talha/cyberkit-pro)
-
-</td></tr>
-<tr><td valign="top">💼</td>
-<td valign="top">
-
-**`portfolio-talha/`** — Interactive terminal-style portfolio with a live CLI, animations, and full responsiveness.
-`Next.js` `TypeScript` `React` &nbsp;·&nbsp; [source](https://github.com/Realistic-Talha/portfolio-talha)
-
-</td></tr>
-<tr><td valign="top">👥</td>
-<td valign="top">
-
-**`ConnecFriend/`** — Social connection platform built with vanilla JS + Node for meaningful people-first networking.
-`JavaScript` `Node.js` &nbsp;·&nbsp; [source](https://github.com/Realistic-Talha/ConnecFriend)
-
-</td></tr>
+<tr>
+<td width="50%" valign="top">
+<h3>📚 BookNest</h3>
+<p><b>Premium Library Management App</b></p>
+<p>A modern library web app with a Gold & Obsidian theme — book reservations, cart system, and a fully responsive layout.</p>
+<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
+<img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/>
+<br/><br/>
+<a href="https://github.com/Realistic-Talha/BookNest"><img src="https://img.shields.io/badge/Code-181717?style=for-the-badge&logo=github"/></a>
+<a href="https://realistic-talha.github.io/BookNest/"><img src="https://img.shields.io/badge/Live_Demo-00C853?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+</td>
+<td width="50%" valign="top">
+<h3>🎬 AI Story Weaver</h3>
+<p><b>AI-Powered Video Story Generator</b></p>
+<p>Generates video stories with AI voice cloning, professional export options, and multi-service fallbacks for reliable creative output.</p>
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
+<img src="https://img.shields.io/badge/AI-FF6F00?style=flat-square&logo=tensorflow&logoColor=white"/>
+<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white"/>
+<br/><br/>
+<a href="https://github.com/Realistic-Talha/ai-story-weaver"><img src="https://img.shields.io/badge/Code-181717?style=for-the-badge&logo=github"/></a>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<h3>🎓 UniBuzz Community</h3>
+<p><b>University Social Platform</b></p>
+<p>A Flutter app connecting university students — sharing resources and building an engaged campus community.</p>
+<img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white"/>
+<img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white"/>
+<img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black"/>
+<br/><br/>
+<a href="https://github.com/Realistic-Talha/unibuzz_community"><img src="https://img.shields.io/badge/Code-181717?style=for-the-badge&logo=github"/></a>
+</td>
+<td width="50%" valign="top">
+<h3>🔐 CyberKit Pro</h3>
+<p><b>Security Tools Suite</b></p>
+<p>A comprehensive cybersecurity toolkit packed with utilities for penetration testing and analysis.</p>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
+<img src="https://img.shields.io/badge/Security-E34F26?style=flat-square&logo=hackaday&logoColor=white"/>
+<img src="https://img.shields.io/badge/Tools-43853D?style=flat-square&logo=gnubash&logoColor=white"/>
+<br/><br/>
+<a href="https://github.com/Realistic-Talha/cyberkit-pro"><img src="https://img.shields.io/badge/Code-181717?style=for-the-badge&logo=github"/></a>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<h3>💼 Portfolio Website</h3>
+<p><b>Interactive Terminal Portfolio</b></p>
+<p>A unique terminal-style portfolio with a command-line interface, sleek animations, and full responsiveness.</p>
+<img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white"/>
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
+<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
+<br/><br/>
+<a href="https://github.com/Realistic-Talha/portfolio-talha"><img src="https://img.shields.io/badge/Code-181717?style=for-the-badge&logo=github"/></a>
+</td>
+<td width="50%" valign="top">
+<h3>👥 ConnecFriend</h3>
+<p><b>Social Connection Platform</b></p>
+<p>A JavaScript-based social platform built for connecting people and fostering meaningful relationships.</p>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
+<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white"/>
+<img src="https://img.shields.io/badge/Social-1877F2?style=flat-square&logo=meta&logoColor=white"/>
+<br/><br/>
+<a href="https://github.com/Realistic-Talha/ConnecFriend"><img src="https://img.shields.io/badge/Code-181717?style=for-the-badge&logo=github"/></a>
+</td>
+</tr>
 </table>
 
 <br/>
 
-```bash
-talha@dev:~$ ./run_diagnostics.sh --stats
-```
+## 📊 GitHub Analytics
 
 <div align="center">
-<img width="49%" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Realistic-Talha&show_icons=true&hide_border=true&bg_color=0a0e14&title_color=39FF9D&icon_color=39FF9D&text_color=8b98a5&border_color=1a1f29&count_private=true"/>
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Realistic-Talha&hide_border=true&background=0a0e14&stroke=1a1f29&ring=39FF9D&fire=39FF9D&currStreakLabel=39FF9D&sideLabels=8b98a5&currStreakNum=e6edf3&sideNums=e6edf3&dates=8b98a5"/>
+<img width="49%" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Realistic-Talha&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=8A63D2&icon_color=8A63D2&text_color=c9d1d9&count_private=true"/>
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Realistic-Talha&theme=tokyonight&hide_border=true&background=0D1117&stroke=8A63D2&ring=8A63D2&fire=ff6b6b&currStreakLabel=8A63D2"/>
 </div>
 
 <div align="center">
-<img width="45%" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Realistic-Talha&layout=compact&hide_border=true&bg_color=0a0e14&title_color=39FF9D&text_color=8b98a5&border_color=1a1f29&langs_count=8"/>
+<img width="45%" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Realistic-Talha&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=8A63D2&text_color=c9d1d9&langs_count=8"/>
 </div>
 
 <div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Realistic-Talha&bg_color=0a0e14&color=39FF9D&line=39FF9D&point=e6edf3&area=true&hide_border=true" width="97%"/>
-</div>
-
-<br/>
-
-```bash
-talha@dev:~$ cat achievements.log
-```
-
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Realistic-Talha&theme=darkhub&no-frame=true&no-bg=true&column=7&margin-w=10"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Realistic-Talha&bg_color=0D1117&color=8A63D2&line=8A63D2&point=ffffff&area=true&hide_border=true" width="97%"/>
 </div>
 
 <br/>
 
-```bash
-talha@dev:~$ ping realistictalha --connect
-```
+## 🏆 Trophies
+
+<div align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=Realistic-Talha&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=10"/>
+</div>
+
+<br/>
+
+## 🤝 Let's Connect
 
 <div align="center">
 
-<a href="https://twitter.com/realistictalha"><img src="https://img.shields.io/badge/-Twitter-0a0e14?style=for-the-badge&logo=x&logoColor=39FF9D&labelColor=0a0e14"/></a>
-<a href="https://github.com/Realistic-Talha"><img src="https://img.shields.io/badge/-GitHub-0a0e14?style=for-the-badge&logo=github&logoColor=39FF9D&labelColor=0a0e14"/></a>
-<a href="https://linkedin.com/in/"><img src="https://img.shields.io/badge/-LinkedIn-0a0e14?style=for-the-badge&logo=linkedin&logoColor=39FF9D&labelColor=0a0e14"/></a>
+<a href="https://twitter.com/realistictalha">
+  <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
+</a>
+<a href="https://github.com/Realistic-Talha">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+<a href="https://linkedin.com/in/">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
 
 <br/><br/>
 
-```
-> STATUS: open to collaborations & opportunities
-> _
-```
+**💡 Open to collaborations and exciting opportunities!**
+<br/>
+<i>Let's build something amazing together 🚀</i>
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=blur&color=0:0a0e14,100:0a0e14&height=10&section=footer"/>
-
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer" width="100%"/>
