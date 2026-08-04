@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Header Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&customColorList=1A1B27,24283B,8A63D2&height=220&section=header&text=Muhammad%20Talha%20Rana&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Flutter%20Developer%20%E2%80%A2%20Full-Stack%20Web%20%E2%80%A2%20AI%20Enthusiast&descAlignY=55&descSize=16" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1A1B27,50:24283B,100:8A63D2&height=220&section=header&text=Muhammad%20Talha%20Rana&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Flutter%20Developer%20%E2%80%A2%20Full-Stack%20Web%20%E2%80%A2%20AI%20Enthusiast&descAlignY=55&descSize=16" width="100%"/>
 
 <br/>
 
@@ -144,20 +144,20 @@ I'm a Computer Science student at **Air University, Islamabad** 🇵🇰, specia
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Realistic-Talha&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1A1B27&title_color=8A63D2&icon_color=8A63D2&text_color=c9d1d9&cache_seconds=3600" alt="GitHub Stats"/>
-  <img width="49%" src="https://streak-stats.demolab.com/?user=Realistic-Talha&theme=tokyonight&hide_border=true&background=1A1B27&stroke=8A63D2&ring=8A63D2&fire=ff6b6b&currStreakLabel=8A63D2&cache_seconds=3600" alt="GitHub Streak"/>
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Realistic-Talha&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1A1B27&title_color=8A63D2&icon_color=8A63D2&text_color=c9d1d9" alt="GitHub Stats"/>
+  <img width="49%" src="https://streak-stats.demolab.com/?user=Realistic-Talha&theme=tokyonight&hide_border=true&background=1A1B27&stroke=8A63D2&ring=8A63D2&fire=ff6b6b&currStreakLabel=8A63D2" alt="GitHub Streak"/>
 </div>
 
 <br/>
 
 <div align="center">
-  <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Realistic-Talha&layout=compact&theme=tokyonight&hide_border=true&bg_color=1A1B27&title_color=8A63D2&text_color=c9d1d9&langs_count=8&cache_seconds=3600" alt="Top Languages"/>
+  <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Realistic-Talha&layout=compact&theme=tokyonight&hide_border=true&bg_color=1A1B27&title_color=8A63D2&text_color=c9d1d9&langs_count=8" alt="Top Languages"/>
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Realistic-Talha&bg_color=1A1B27&color=8A63D2&line=8A63D2&point=ffffff&area=true&hide_border=true&cache_seconds=3600" width="97%" alt="Activity Graph"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Realistic-Talha&bg_color=1A1B27&color=8A63D2&line=8A63D2&point=ffffff&area=true&hide_border=true" width="97%" alt="Activity Graph"/>
 </div>
 
 <br/>
@@ -193,4 +193,4 @@ I'm a Computer Science student at **Air University, Islamabad** 🇵🇰, specia
 </div>
 
 <!-- Footer Wave -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&customColorList=1A1B27,24283B,8A63D2&height=120&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1A1B27,50:24283B,100:8A63D2&height=120&section=footer" width="100%"/>
